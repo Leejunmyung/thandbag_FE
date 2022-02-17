@@ -1,4 +1,3 @@
-## final project
 
 ## 👊 생드백(Thandbag) - FrontEnd
 
